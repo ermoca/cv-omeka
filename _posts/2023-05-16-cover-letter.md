@@ -9,6 +9,8 @@ featured: true
 hidden: true
 ---
 
+Hello !
+
 I am a french computer scientist with a 9 years experience in building impactful softwares.
 
 I discovered Omeka while looking for opportunities to contribute to the future of museums and online exhibits, idealy with open-source solutions.
